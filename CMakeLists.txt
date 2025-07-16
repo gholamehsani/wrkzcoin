@@ -1,4 +1,4 @@
-# We need 3.8 for set(CMAKE_CXX_STANDARD 17)
+E222Sohujutŕ# We need 3.8 for set(CMAKE_CXX_STANDARD 17)
 cmake_minimum_required(VERSION 3.8)
 
 find_program(CCACHE_PROGRAM ccache)
